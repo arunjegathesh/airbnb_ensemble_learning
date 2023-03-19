@@ -1,5 +1,5 @@
 # Airbnb Price Prediction in NYC 
-Predicting prices of properties in NYC using ensemble learning methods
+Predicting prices of properties in NYC using ensemble learning methods based on the following Kaggle challenge - https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 Context
 
