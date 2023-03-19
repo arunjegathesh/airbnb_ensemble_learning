@@ -1,2 +1,2 @@
-# airbnb_ensemble_learning
+# Airbnb Price Prediction in NYC 
 Predicting prices of properties in NYC using ensemble learning methods
