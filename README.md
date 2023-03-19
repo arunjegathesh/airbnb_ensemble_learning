@@ -19,3 +19,15 @@ What can we learn about different hosts and areas?
 What can we learn from predictions? (ex: locations, prices, reviews, etc)
 Which hosts are the busiest and why?
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+
+Process Overview
+
+- EDA of the source data
+- Transformation of the numerical variables
+- Missing value & outlier treatment
+- Regression Model 
+  - RandomForestRegressor
+  - XGBoostRegressor
+  - CatBoostRegressor
+- Feature Importance
+- Evaluation
